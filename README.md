@@ -1,10 +1,11 @@
 <!-- Level 1: Simple bio and stats -->
 
-# Hi! I'm Teppei!
+# 👋 Hi, I'm Teppei
 
 🧑‍💻 Tech Enthusiast<br/>
 🎓 Self Taught Programmer<br/>
 💭 Currently learning about Cloud Engineer and Generative AI<br/>
+📍 Japan
 
 ## 🌐 Socials:
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/worldwideteppei) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ieppet_eba@outlook.com) 
